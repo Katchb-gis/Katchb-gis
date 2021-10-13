@@ -1,0 +1,52 @@
+
+html {box-sizing: border-box;}
+
+*, *:before, *:after {box-sizing: inherit;}
+/* 
+.gold {
+    color: goldenrod;
+    font-size: larger;
+
+    border: 2px solid rgb(81, 93, 131);
+    border-left: 6px solid saddlebrown;
+
+    border-radius: 10px;
+    border-bottom-left-radius: 6px ;
+    border-bottom-right-radius: 10px;
+    margin: 5px;
+
+    background-image: linear-gradient(to right, rgb(22,24,85,0.5) , rgb(202,24,185,0.3));
+
+}
+
+.red {border: 2px solid royalblue;
+    border-left:5px solid  salmon;
+    border-right: 9px double yellowgreen;
+
+    border-top-left-radius: 20px ;
+    border-bottom-right-radius: 10px;
+
+    background-image: linear-gradient(120deg, rgba(4, 56, 47, 0.5) , rgba(7, 195, 54, 0.8),rgba(78, 195, 154, 0.5));
+width: 100px;
+} */
+h2{width: 300px;
+    height: 405px;
+    border: 2px solid blue;
+    padding: 5px solid blue ;
+    
+    margin: 5px ;
+    float: right;
+    text-align: center;
+}
+
+
+p{
+    width: 300px;
+    height: 405px;
+    border: 2px solid rgb(230, 22, 15);
+    padding: 150px   ;
+    margin: 5px ;
+    float: right;
+    text-align: center;
+
+}
